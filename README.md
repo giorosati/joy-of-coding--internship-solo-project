@@ -13,6 +13,6 @@ to start the databse:
 
 to start the graphql sandbox:
 
-giovanni.rosati@gmail.com , temp1235
+giovanni.rosati@gmail.com , temp1234
 
 updated railway settings
