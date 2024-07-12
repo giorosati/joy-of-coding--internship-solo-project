@@ -12,3 +12,5 @@ to start the server: yarn redwood dev
 to start the databse:
 
 to start the graphql sandbox:
+
+giovanni.rosati@gmail.com , temp1235
